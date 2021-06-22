@@ -1,8 +1,13 @@
 List Video Tutorial:
 
 1. HTML
+*HTML 5
 2. CSS
+*CSS 3
+* Frameword CSS
 3. Javascript
-4. Laravel
-5. Node.js
-6. Vue.js
+*Node.js
+*Vue.js
+4. PHP
+*Laravel
+*CodeIgneter
