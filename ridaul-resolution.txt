@@ -1,7 +1,9 @@
 Ridaul Resolusi 2021
 
 - Belajar Video Tutorial
+* Vue
 - Selalu Konsisten
 - Bekerja Bulan Agustus
 - Target Bulan Ini Laravel
 - Melamar Wanita
+- Belajar Percaya Diri
