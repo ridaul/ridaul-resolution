@@ -1,7 +1,9 @@
 Ridaul Resolusi 2021
 
 - Belajar Video Tutorial
+* Angular
+* reach
 - Selalu Konsisten
+* setiap hari belajar
 - Bekerja Bulan Agustus
-- Target Bulan Ini Laravel
 - Melamar Wanita
