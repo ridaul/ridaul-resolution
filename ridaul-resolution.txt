@@ -2,6 +2,8 @@ Ridaul Resolusi 2021
 
 - Belajar Video Tutorial
 * Vue
+  ^Vue dengan laravel
+  ^Vue dengan boostrap
 * reach
 - Selalu Konsisten
 * setiap hari belajar
